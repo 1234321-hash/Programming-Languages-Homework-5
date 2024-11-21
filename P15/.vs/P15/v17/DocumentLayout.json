@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\Desktop\\Programming-Languages-Homework-5\\P15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E0DA98-4343-4C60-B133-FFC3B4988B73}|P15\\P15.vcxproj|C:\\Users\\123\\Desktop\\Programming-Languages-Homework-5\\P15\\P15\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4E0DA98-4343-4C60-B133-FFC3B4988B73}|P15\\P15.vcxproj|solutionrelative:P15\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\Programming-Languages-Homework-5\\P15\\P15\\Main.c",
+              "RelativeDocumentMoniker": "P15\\Main.c",
+              "ToolTip": "C:\\Users\\123\\Desktop\\Programming-Languages-Homework-5\\P15\\P15\\Main.c",
+              "RelativeToolTip": "P15\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-19T09:44:28.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
